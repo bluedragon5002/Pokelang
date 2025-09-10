@@ -1,0 +1,10 @@
+Pikachu x = 10;
+Pikachu y = 32;
+Pokedex.println("Sum:");
+Pokedex.println(x + y);
+
+Mew greeting = "Welcome to PokéLang!";
+Pokedex.println(greeting);
+
+Bulbasaur flag = true;
+Pokedex.println(flag);
